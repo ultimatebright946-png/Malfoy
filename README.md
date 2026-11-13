@@ -28,3 +28,4 @@ Uploaded pictures are saved in `DATA_DIR/uploads`, so keep the Render disk.
 - `.exp` XP breakdown • `.shop leveling|attraction|nails|armor|charms`
 - Quests: `.map .explore .boss .rest .quests .accept .charms .equip .gear`
 "# Malfoy" 
+"# Malfoy" 
